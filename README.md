@@ -8,5 +8,4 @@
 
 ## Descrição do exercício
 
-#### No documento das imagens (imagens.html), faça com que elas apareçam uma ao lado da
-outra, horizontalmente.
+#### Incorpore um vídeo do Youtube na página index.html, e adicione, acima do player, um título e uma descrição sobre o mesmo.
