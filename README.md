@@ -8,9 +8,12 @@
 
 ## Descrição do exercício
 
-#### No index.html, do Exercício 1 (M1S01E1), adicione um arquivo CSS e mude o estilo do título de nível 1 para que a fonte seja Verdana, com tamanho de 20 pixels e cor marrom (ou outra de sua preferência).
+#### No index.html, adicione um botão (anchor) contendo o texto "Avançar" e, utilizando apenas HTML, faça com que o usuário, ao clicar nesse botão, vá para a página das imagens(imagens.html)
 
-#### Nesse mesmo documento, utilizando CSS:
-#### ● Centralize o título;
-#### ● Mude a cor de fundo da página para amarelo (ou outra de sua preferência);
-#### ● Mude o tamanho da fonte dos parágrafos para 14 pixels.
+#### Substitua o texto "Avançar" do botão do por uma imagem.  
+  
+#### Agora, usando CSS, faça com que o botão tenha uma borda curvada.
+  
+#### Aumente o padding do botão em 10 pixels, coloque uma borda sólida de 2 pixels na cor
+  
+#### preta, e uma margem superior de 20 pixels.
