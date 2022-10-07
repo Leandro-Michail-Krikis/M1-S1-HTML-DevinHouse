@@ -8,12 +8,4 @@
 
 ## Descrição do exercício
 
-#### No index.html, adicione um botão (anchor) contendo o texto "Avançar" e, utilizando apenas HTML, faça com que o usuário, ao clicar nesse botão, vá para a página das imagens(imagens.html)
-
-#### Substitua o texto "Avançar" do botão do por uma imagem.  
-  
-#### Agora, usando CSS, faça com que o botão tenha uma borda curvada.
-  
-#### Aumente o padding do botão em 10 pixels, coloque uma borda sólida de 2 pixels na cor
-  
-#### preta, e uma margem superior de 20 pixels.
+#### No index.html, adicione uma imagem de fundo no seu h1 que cubra todo o espaço do elemento, sem repetições.
