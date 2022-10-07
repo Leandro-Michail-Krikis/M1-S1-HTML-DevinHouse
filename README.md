@@ -8,4 +8,5 @@
 
 ## Descrição do exercício
 
-#### No index.html, adicione uma imagem de fundo no seu h1 que cubra todo o espaço do elemento, sem repetições.
+#### No documento das imagens (imagens.html), faça com que elas apareçam uma ao lado da
+outra, horizontalmente.
