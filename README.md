@@ -8,8 +8,8 @@
 
 ## Descrição do exercício
 
-#### Em uma pasta apropriada crie um documento HTML5, chamado “index.html”, em que a linguagem seja português do Brasil, o conjunto de caracteres seja UTF-8, e que a proporção do viewport seja ajustada para a escala 1, com o título na aba de “DEVinHouse”. O corpo deve conter um título (h1) com o conteúdo “Semana 1” e um parágrafo contendo o texto “Este é o resultado do primeiro exercício da primeira semana do curso DEVinHouse.”.
+#### Construa outro documento HTML5 (exemplo: imagens.html), no mesmo diretório do anterior, agora contendo três imagens: uma salva no mesmo diretório dos arquivos .html,outra salva em um diretório diferente (mas dentro do diretório onde se encontram os arquivos html), e outra que não está no seu computador, mas está salva em algum servidor na internet (URL).
 
-#### No mesmo documento, adicione uma linha horizontal entre o título e o parágrafo, e duas quebras de linha no parágrafo, uma logo após a palavra “exercício” e outra logo após a palavra “semana”.
+#### No mesmo documento, mude o "ícone de favorito" da página (o ícone da aba). Mude também o ícone de favorito no documento do exercício anterior (M1S01E1).
 
 #### Após isso, insira algum emoji de sua escolha no parágrafo.
