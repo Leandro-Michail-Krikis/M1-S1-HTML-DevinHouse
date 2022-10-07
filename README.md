@@ -8,8 +8,9 @@
 
 ## Descrição do exercício
 
-#### Em uma pasta apropriada crie um documento HTML5, chamado “index.html”, em que a linguagem seja português do Brasil, o conjunto de caracteres seja UTF-8, e que a proporção do viewport seja ajustada para a escala 1, com o título na aba de “DEVinHouse”. O corpo deve conter um título (h1) com o conteúdo “Semana 1” e um parágrafo contendo o texto “Este é o resultado do primeiro exercício da primeira semana do curso DEVinHouse.”.
+#### No index.html, do Exercício 1 (M1S01E1), adicione um arquivo CSS e mude o estilo do título de nível 1 para que a fonte seja Verdana, com tamanho de 20 pixels e cor marrom (ou outra de sua preferência).
 
-#### No mesmo documento, adicione uma linha horizontal entre o título e o parágrafo, e duas quebras de linha no parágrafo, uma logo após a palavra “exercício” e outra logo após a palavra “semana”.
-
-#### Após isso, insira algum emoji de sua escolha no parágrafo.
+#### Nesse mesmo documento, utilizando CSS:
+#### ● Centralize o título;
+#### ● Mude a cor de fundo da página para amarelo (ou outra de sua preferência);
+#### ● Mude o tamanho da fonte dos parágrafos para 14 pixels.
