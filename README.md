@@ -8,6 +8,5 @@
 
 ## Descrição do exercício
 
-#### Faça com que os itens do menu fiquem destacados quando passar o mouse sobre eles, mudando a cor de fundo apenas do item que o mouse está em cima.
+#### Adicione uma região de rodapé na página index, com uma cor de fundo diferente do resto da página e algumas informações sobre você, o/a desenvolvedor(a).
 
-#### Bônus: Faça com que a cor mude gradualmente, com uma transição de 300 milissegundos.
