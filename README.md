@@ -8,6 +8,7 @@
 
 ## Descrição do exercício
 
-#### Adicione na página “index.html” um layout com flexbox com direção de coluna. Aplique ao elemento body ou crie um elemento container que abrace todo o conteúdo da página e, com display flex, distribua os elementos verticalmente, uma abaixo do outro.
+#### Adicione na página “imagens.html” um layout com flexbox com direção de linha. Crie um elemento container, com largura de 100%, que abrace todas as imagens, com display flex, as distribua uma ao lado da outra.
+
 
 
