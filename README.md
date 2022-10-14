@@ -8,5 +8,6 @@
 
 ## Descrição do exercício
 
-#### Adicione uma região de rodapé na página index, com uma cor de fundo diferente do resto da página e algumas informações sobre você, o/a desenvolvedor(a).
+#### Adicione na página “index.html” um layout com flexbox com direção de coluna. Aplique ao elemento body ou crie um elemento container que abrace todo o conteúdo da página e, com display flex, distribua os elementos verticalmente, uma abaixo do outro.
+
 
