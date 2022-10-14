@@ -8,6 +8,6 @@
 
 ## Descrição do exercício
 
-#### Crie um menu no topo da página index que fique sempre fixo enquanto você rola a página para baixo, contendo um logo do lado esquerdo e uma lista das páginas do site à direita:
-#### ● Item de menu "Home" com link para o index.html;
-#### ● Item "Imagens" com link para a página com as imagens.
+#### Faça com que os itens do menu fiquem destacados quando passar o mouse sobre eles, mudando a cor de fundo apenas do item que o mouse está em cima.
+
+#### Bônus: Faça com que a cor mude gradualmente, com uma transição de 300 milissegundos.
